@@ -27,7 +27,7 @@ const products = {
         price: "8.500 €"
     },
     "caravelair": {
-        name: "caravelair",
+        name: "Caravelair 426",
         images: [
             "/assets/images/products/caravelair/caravelair-1.JPG",
             "/assets/images/products/caravelair/caravelair-2.JPG",
@@ -68,7 +68,7 @@ const products = {
         price: "3.500 €"
     },
     "lmc": {
-        name: "LMC",
+        name: "LMC 450",
         images: [
             "/assets/images/products/lmc/lmc-1.JPG",
             "/assets/images/products/lmc/lmc-2.JPG",

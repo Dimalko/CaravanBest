@@ -21,7 +21,7 @@
                     <h2>Στοιχεία Επικοινωνίας</h2>
                     <table class="contuct-details">
                         <tr class="contuct-details-info"><td><strong>📞 Τηλέφωνο: </strong></td><td><a href="tel:+302393022810">23930 22810</a></td></tr>
-                        <tr class="contuct-details-info"><td><strong>📱 Κινητό: </strong></td><td><a href="tel:+306987161082">69 7763 9528</a></td></tr>
+                        <tr class="contuct-details-info"><td><strong>📱 Κινητό: </strong></td><td><a href="tel:+306977639528">69 7763 9528</a></td></tr>
                         <tr class="contuct-details-info"><td><strong>📱 Κινητό: </strong></td><td><a href="tel:+306987161082">69 8716 1082</a></td></tr>
                         <tr class="contuct-details-info"><td><strong>📧 Email: </strong></td><td><a href="mailto:dimitrismalkotsis@gmail.com">dimitrismalkotsis@gmail.com</a></td></tr>
                     </table>
@@ -32,23 +32,23 @@
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3027.5531540803026!2d23.26493687641075!3d40.63973544203587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a85177aa2c51f5%3A0xd4e375d389b65be2!2sCaravanbest!5e0!3m2!1sel!2sgr!4v1742876684892!5m2!1sel!2sgr" 
                         style="border:0; border-radius: 10px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                     </iframe>
-                    <a href="https://maps.app.goo.gl/3bhYQzM8VBY82CmZ6" target="_blank">Νικομηδινό Θεσσαλονίκης<br>390ο χλμ. Παλαιάς Εθνικής Οδού Θεσσαλονίκης-Καβάλας</a>
+                    <a href="https://maps.app.goo.gl/3bhYQzM8VBY82CmZ6" target="_blank">Νικομηδινό Θεσσαλονίκης<br>39ο χλμ. Παλαιάς Εθνικής Οδού Θεσσαλονίκης-Καβάλας</a>
                 </div>
             </div>
             <div class="contact-form">
                 <h2>Στείλτε μας μήνυμα</h2>
-                <form action="https://formsubmit.co/dimitrismalkotsis@gmail.com" method="POST">
+                <form name="contact" method="POST" data-netlify="true" action="https://caravanbest.netlify.app/pages/contact">
                     <div class="form-group">
                         <label for="fullname">Ονοματεπώνυμο</label>
-                        <input type="text" id="fullname" placeholder="Ονοματεπώνυμο" required>
+                        <input type="text" name="name" id="fullname" placeholder="Ονοματεπώνυμο" required>
                     </div>
                     <div class="form-group">
                         <label for="email">Email</label>
-                        <input type="email" id="email" placeholder="Email" required>
+                        <input type="email" name="email" id="email" placeholder="Email" required>
                     </div>
                     <div class="form-group">
                         <label for="message">Το μήνυμά σας</label>
-                        <textarea id="message" placeholder="Το μήνυμά σας" required></textarea>
+                        <textarea name="message" id="message" placeholder="Το μήνυμά σας" required></textarea>
                     </div>
                     <button type="submit">Αποστολή</button>
                 </form>

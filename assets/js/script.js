@@ -262,7 +262,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadComponent("header", "/pages/header.html");
     loadComponent("footer", "/pages/footer.html");
     
-    if (window.location.pathname.includes("product")) {
+    if (window.location.pathname.includes("product.html")) {
         loadProductDetails();
     }
 });

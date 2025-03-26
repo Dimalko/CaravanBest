@@ -6,16 +6,16 @@ const products = {
     "eifelland": {
         name: "Eifelland Holiday 50",
         images: [
-            "assets/images/products/eifelland/eifelland-1.JPG",
-            "assets/images/products/eifelland/eifelland-2.JPG",
-            "assets/images/products/eifelland/eifelland-3.JPG",
-            "assets/images/products/eifelland/eifelland-4.JPG",
-            "assets/images/products/eifelland/eifelland-5.JPG",
-            "assets/images/products/eifelland/eifelland-6.JPG",
-            "assets/images/products/eifelland/eifelland-7.JPG",
-            "assets/images/products/eifelland/eifelland-8.JPG",
-            "assets/images/products/eifelland/eifelland-9.JPG",
-            "assets/images/products/eifelland/eifelland-10.JPG",
+            "/assets/images/products/eifelland/eifelland-1.JPG",
+            "/assets/images/products/eifelland/eifelland-2.JPG",
+            "/assets/images/products/eifelland/eifelland-3.JPG",
+            "/assets/images/products/eifelland/eifelland-4.JPG",
+            "/assets/images/products/eifelland/eifelland-5.JPG",
+            "/assets/images/products/eifelland/eifelland-6.JPG",
+            "/assets/images/products/eifelland/eifelland-7.JPG",
+            "/assets/images/products/eifelland/eifelland-8.JPG",
+            "/assets/images/products/eifelland/eifelland-9.JPG",
+            "/assets/images/products/eifelland/eifelland-10.JPG",
         ],
         brand: "Eifelland",
         model: "Holiday 50",
@@ -29,14 +29,14 @@ const products = {
     "caravelair": {
         name: "caravelair",
         images: [
-            "assets/images/products/caravelair/caravelair-1.JPG",
-            "assets/images/products/caravelair/caravelair-2.JPG",
-            "assets/images/products/caravelair/caravelair-3.JPG",
-            "assets/images/products/caravelair/caravelair-4.JPG",
-            "assets/images/products/caravelair/caravelair-5.JPG",
-            "assets/images/products/caravelair/caravelair-6.JPG",
-            "assets/images/products/caravelair/caravelair-7.JPG",
-            "assets/images/products/caravelair/caravelair-8.JPG"
+            "/assets/images/products/caravelair/caravelair-1.JPG",
+            "/assets/images/products/caravelair/caravelair-2.JPG",
+            "/assets/images/products/caravelair/caravelair-3.JPG",
+            "/assets/images/products/caravelair/caravelair-4.JPG",
+            "/assets/images/products/caravelair/caravelair-5.JPG",
+            "/assets/images/products/caravelair/caravelair-6.JPG",
+            "/assets/images/products/caravelair/caravelair-7.JPG",
+            "/assets/images/products/caravelair/caravelair-8.JPG"
         ],
         brand: "Caravelair",
         model: "426",
@@ -50,13 +50,13 @@ const products = {
     "eriba": {
         name: "Eriba Nova 490",
         images: [
-            "assets/images/products/eriba/eriba-1.JPG",
-            "assets/images/products/eriba/eriba-2.JPG",
-            "assets/images/products/eriba/eriba-3.JPG",
-            "assets/images/products/eriba/eriba-4.JPG",
-            "assets/images/products/eriba/eriba-5.JPG",
-            "assets/images/products/eriba/eriba-6.JPG",
-            "assets/images/products/eriba/eriba-7.JPG"
+            "/assets/images/products/eriba/eriba-1.JPG",
+            "/assets/images/products/eriba/eriba-2.JPG",
+            "/assets/images/products/eriba/eriba-3.JPG",
+            "/assets/images/products/eriba/eriba-4.JPG",
+            "/assets/images/products/eriba/eriba-5.JPG",
+            "/assets/images/products/eriba/eriba-6.JPG",
+            "/assets/images/products/eriba/eriba-7.JPG"
         ],
         brand: "Eriba Nova",
         model: "490",
@@ -70,15 +70,15 @@ const products = {
     "lmc": {
         name: "LMC",
         images: [
-            "assets/images/products/lmc/lmc-1.JPG",
-            "assets/images/products/lmc/lmc-2.JPG",
-            "assets/images/products/lmc/lmc-3.JPG",
-            "assets/images/products/lmc/lmc-4.JPG",
-            "assets/images/products/lmc/lmc-5.JPG",
-            "assets/images/products/lmc/lmc-6.JPG",
-            "assets/images/products/lmc/lmc-7.JPG",
-            "assets/images/products/lmc/lmc-8.JPG",
-            "assets/images/products/lmc/lmc-9.JPG"
+            "/assets/images/products/lmc/lmc-1.JPG",
+            "/assets/images/products/lmc/lmc-2.JPG",
+            "/assets/images/products/lmc/lmc-3.JPG",
+            "/assets/images/products/lmc/lmc-4.JPG",
+            "/assets/images/products/lmc/lmc-5.JPG",
+            "/assets/images/products/lmc/lmc-6.JPG",
+            "/assets/images/products/lmc/lmc-7.JPG",
+            "/assets/images/products/lmc/lmc-8.JPG",
+            "/assets/images/products/lmc/lmc-9.JPG"
         ],
         brand: "LMC",
         model: "450",
@@ -92,18 +92,18 @@ const products = {
     "hobby": {
         name: "Hobby 550 TKM",
         images: [
-            "assets/images/products/hobby/hobby-1.jpg",
-            "assets/images/products/hobby/hobby-2.jpg",
-            "assets/images/products/hobby/hobby-3.jpg",
-            "assets/images/products/hobby/hobby-4.jpg",
-            "assets/images/products/hobby/hobby-5.jpg",
-            "assets/images/products/hobby/hobby-6.jpg",
-            "assets/images/products/hobby/hobby-7.jpg",
-            "assets/images/products/hobby/hobby-8.jpg",
-            "assets/images/products/hobby/hobby-9.jpg",
-            "assets/images/products/hobby/hobby-10.jpg",
-            "assets/images/products/hobby/hobby-11.jpg",
-            "assets/images/products/hobby/hobby-12.jpg"
+            "/assets/images/products/hobby/hobby-1.jpg",
+            "/assets/images/products/hobby/hobby-2.jpg",
+            "/assets/images/products/hobby/hobby-3.jpg",
+            "/assets/images/products/hobby/hobby-4.jpg",
+            "/assets/images/products/hobby/hobby-5.jpg",
+            "/assets/images/products/hobby/hobby-6.jpg",
+            "/assets/images/products/hobby/hobby-7.jpg",
+            "/assets/images/products/hobby/hobby-8.jpg",
+            "/assets/images/products/hobby/hobby-9.jpg",
+            "/assets/images/products/hobby/hobby-10.jpg",
+            "/assets/images/products/hobby/hobby-11.jpg",
+            "/assets/images/products/hobby/hobby-12.jpg"
         ],
         brand: "Hobby",
         model: "550 TKM",
@@ -262,7 +262,7 @@ document.addEventListener("DOMContentLoaded", () => {
     loadComponent("header", "/pages/header.html");
     loadComponent("footer", "/pages/footer.html");
     
-    if (window.location.pathname.includes("product.html")) {
+    if (window.location.pathname.includes("product")) {
         loadProductDetails();
     }
 });

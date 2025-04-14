@@ -21,7 +21,7 @@ const products = {
         model: "Holiday 50",
         condition: "Μεταχειρισμένο",
         year: "2003",
-        weight: "-",
+        weight: "1.300",
         length: "5.4 μέτρα",
         width: "2.5 μέτρα",
         price: "8.500 €"
@@ -42,7 +42,7 @@ const products = {
         model: "426",
         condition: "Μεταχειρισμένο",
         year: "2000",
-        weight: "-",
+        weight: "1.100",
         length: "4.3 μέτρα",
         width: "2.3 μέτρα",
         price: "6.500 €"
@@ -62,7 +62,7 @@ const products = {
         model: "490",
         condition: "Μεταχειρισμένο",
         year: "1987",
-        weight: "-",
+        weight: "1.350",
         length: "5.0 μέτρα",
         width: "2.2 μέτρα",
         price: "3.500 €"
@@ -84,7 +84,7 @@ const products = {
         model: "450",
         condition: "Μεταχειρισμένο",
         year: "1991",
-        weight: "-",
+        weight: "1.200",
         length: "4.5",
         width: "2.3",
         price: "3.500 €"
@@ -109,7 +109,7 @@ const products = {
         model: "550 TKM",
         condition: "Μεταχειρισμένο",
         year: "1994",
-        weight: "-",
+        weight: "1.500",
         length: "6.2",
         width: "2.5",
         price: "6.500 €"

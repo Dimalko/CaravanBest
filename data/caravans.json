@@ -1,0 +1,177 @@
+{
+  "caravans": [
+    {
+      "id": "eifelland-holiday-50",
+      "name": "Eifelland Holiday 50",
+      "brand": "Eifelland",
+      "model": "Holiday 50",
+      "year": 2003,
+      "length": "5.40m",
+      "width": "2.50m",
+      "weight": "1.300kg",
+      "price": "8.500",
+      "condition": "Καλή",
+      "status": "Μεταχειρισμένο",
+      "description": "Καλή κατάσταση.",
+      "features": [
+        "Κουζίνα",
+        "Τουαλέτα με ντους",
+        "Ντουλάπες αποθήκευσης",
+        "Κρεβάτι διπλό",
+        "Τραπεζαρία 4 ατόμων",
+        "Ψυγείο",
+        "Θέρμανση",
+        "Ηλεκτρική εγκατάσταση 12V/230V"
+      ],
+      "specifications": {
+        "sleeps": "4 άτομα",
+        "berths": "2 κρεβάτια",
+        "awning": "Δεν περιλαμβάνεται"
+      },
+      "images": [
+        "/images/products/eifelland/eifelland-1.JPG",
+        "/images/products/eifelland/eifelland-2.JPG",
+        "/images/products/eifelland/eifelland-3.JPG",
+        "/images/products/eifelland/eifelland-4.JPG",
+        "/images/products/eifelland/eifelland-5.JPG",
+        "/images/products/eifelland/eifelland-6.JPG",
+        "/images/products/eifelland/eifelland-7.JPG",
+        "/images/products/eifelland/eifelland-8.JPG",
+        "/images/products/eifelland/eifelland-9.JPG",
+        "/images/products/eifelland/eifelland-10.JPG"
+      ],
+      "mainImage": "/images/products/eifelland/eifelland-1.JPG"
+    },
+    {
+      "id": "caravelair-426",
+      "name": "Caravelair 426",
+      "brand": "Caravelair",
+      "model": "426",
+      "year": 2000,
+      "length": "4.30m",
+      "width": "2.30m",
+      "weight": "1.100kg",
+      "price": "6.500",
+      "condition": "Πολύ καλή",
+      "status": "Μεταχειρισμένο",
+      "description": "ΣΚαλή κατάσταση.",
+      "features": ["Κουζίνα", "Τραπεζαρία", "Κρεβάτι διπλό", "Αποθηκευτικός χώρος", "Ηλεκτρική εγκατάσταση"],
+      "specifications": {
+        "sleeps": "2 άτομα",
+        "berths": "1 κρεβάτι, 1 κουκέτα",
+        "awning": "Δεν περιλαμβάνεται"
+      },
+      "images": [
+        "/images/products/caravelair/caravelair-1.JPG",
+        "/images/products/caravelair/caravelair-2.JPG",
+        "/images/products/caravelair/caravelair-3.JPG",
+        "/images/products/caravelair/caravelair-4.JPG",
+        "/images/products/caravelair/caravelair-5.JPG",
+        "/images/products/caravelair/caravelair-6.JPG",
+        "/images/products/caravelair/caravelair-7.JPG",
+        "/images/products/caravelair/caravelair-8.JPG"
+      ],
+      "mainImage": "/images/products/caravelair/caravelair-1.JPG"
+    },
+    {
+      "id": "eriba-nova-490",
+      "name": "Eriba Nova 490",
+      "brand": "Eriba",
+      "model": "Nova 490",
+      "year": 1987,
+      "length": "5.00m",
+      "width": "2.30m",
+      "weight": "1.350kg",
+      "price": "3.500",
+      "condition": "Καλή",
+      "status": "Μεταχειρισμένο",
+      "description": "Καλή κατάσταση.",
+      "features": ["Κουζίνα", "Τραπεζαρία", "Αποθηκευτικός χώρος", "Βασική ηλεκτρική εγκατάσταση"],
+      "specifications": {
+        "sleeps": "4 άτομα",
+        "berths": "2 κρεβάτια",
+        "awning": "Δεν περιλαμβάνεται"
+      },
+      "images": [
+        "/images/products/eriba/eriba-1.jpg",
+        "/images/products/eriba/eriba-2.jpg",
+        "/images/products/eriba/eriba-3.jpg",
+        "/images/products/eriba/eriba-4.jpg",
+        "/images/products/eriba/eriba-5.jpg",
+        "/images/products/eriba/eriba-6.jpg",
+        "/images/products/eriba/eriba-7.jpg"
+        
+      ],
+      "mainImage": "/images/products/eriba/eriba-1.jpg"
+    },
+    {
+      "id": "lmc-450",
+      "name": "LMC 450",
+      "brand": "LMC",
+      "model": "450",
+      "year": 1991,
+      "length": "3.50m",
+      "width": "2.30m",
+      "weight": "1.200kg",
+      "price": "3.500",
+      "condition": "Καλή",
+      "status": "Μεταχειρισμένο",
+      "description": "Καλή κατάσταση.",
+      "features": ["Κουζίνα", "Τραπεζαρία", "Αποθηκευτικός χώρος", "Βασική ηλεκτρική εγκατάσταση"],
+      "specifications": {
+        "sleeps": "4 άτομα",
+        "berths": "3 κρεβάτια",
+        "awning": "Δεν περιλαμβάνεται"
+      },
+      "images": [
+        "/images/products/lmc/lmc-1.jpg",
+        "/images/products/lmc/lmc-2.jpg",
+        "/images/products/lmc/lmc-3.jpg",
+        "/images/products/lmc/lmc-4.jpg",
+        "/images/products/lmc/lmc-5.jpg",
+        "/images/products/lmc/lmc-6.jpg",
+        "/images/products/lmc/lmc-7.jpg",
+        "/images/products/lmc/lmc-8.jpg",
+        "/images/products/lmc/lmc-9.jpg"
+        
+      ],
+      "mainImage": "/images/products/lmc/lmc-1.jpg"
+    },
+    {
+      "id": "hobby-550-tkm",
+      "name": "Hobby 550 TKM",
+      "brand": "Hobby",
+      "model": "550 TKM",
+      "year": 1994,
+      "length": "6.20m",
+      "width": "2.50m",
+      "weight": "1.500kg",
+      "price": "6.500",
+      "condition": "Καλή",
+      "status": "Μεταχειρισμένο",
+      "description": "Καλή κατάσταση.",
+      "features": ["Κουζίνα", "Τραπεζαρία", "Αποθηκευτικός χώρος", "Βασική ηλεκτρική εγκατάσταση"],
+      "specifications": {
+        "sleeps": "4 άτομα",
+        "berths": "2 κρεβάτια, 1 κουκέτα",
+        "awning": "Δεν περιλαμβάνεται"
+      },
+      "images": [
+        "/images/products/hobby/hobby-1.jpg",
+        "/images/products/hobby/hobby-2.jpg",
+        "/images/products/hobby/hobby-3.jpg",
+        "/images/products/hobby/hobby-4.jpg",
+        "/images/products/hobby/hobby-5.jpg",
+        "/images/products/hobby/hobby-6.jpg",
+        "/images/products/hobby/hobby-7.jpg",
+        "/images/products/hobby/hobby-8.jpg",
+        "/images/products/hobby/hobby-9.jpg",
+        "/images/products/hobby/hobby-10.jpg",
+        "/images/products/hobby/hobby-11.jpg",
+        "/images/products/hobby/hobby-12.jpg"
+        
+      ],
+      "mainImage": "/images/products/lmc/lmc-1.jpg"
+    }
+  ]
+}

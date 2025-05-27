@@ -1,4 +1,5 @@
-const { withNetlify } = require('@netlify/next');
+// next.config.mjs
+import netlify from '@netlify/next'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -11,6 +12,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-};
+}
 
-module.exports = withNetlify(nextConfig);
+export default netlify(nextConfig)

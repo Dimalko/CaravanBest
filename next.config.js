@@ -1,3 +1,5 @@
+const { withNetlify } = require('@netlify/next');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
@@ -9,6 +11,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+};
 
-export default nextConfig
+module.exports = withNetlify(nextConfig);

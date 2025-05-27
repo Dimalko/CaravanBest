@@ -1,6 +1,3 @@
-// next.config.mjs
-import netlify from '@netlify/next'
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   eslint: {
@@ -14,4 +11,4 @@ const nextConfig = {
   },
 }
 
-export default netlify(nextConfig)
+export default nextConfig
